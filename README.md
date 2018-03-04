@@ -1,0 +1,2 @@
+# Prosper_Loan_Analyst_Project
+使用PYTHON语言对Prosper公开数据集的分析，看看Prosper风险评分的影响因素都有哪些，并建立逻辑回归模型对借款人还款能力进行预测
